@@ -34,7 +34,7 @@ Automatically renames sales invoices using:
 Example:
 
 ```text
-272 - UJALA SALES.pdf
+272 - khushal SALES.pdf
 ```
 
 ---
@@ -48,7 +48,7 @@ Automatically renames purchase invoices using:
 Example:
 
 ```text
-SH-189 - STEEL HUB PURCHASE.pdf
+KH-189 - khushal PURCHASE.pdf
 ```
 
 ---
@@ -62,7 +62,7 @@ Automatically renames ledger exports using:
 Example:
 
 ```text
-STEEL HUB Apr2026 to May2026 LEDGER.pdf
+KHUSHAL JAIN Apr2026 to May2026 LEDGER.pdf
 ```
 
 ---
@@ -199,7 +199,7 @@ Sales XXX_272_26-27.pdf
 Automatically renamed to:
 
 ```text
-272 - UJALA SALES.pdf
+272 - KHUSHAL SALES.pdf
 ```
 
 ---
